@@ -1,0 +1,184 @@
+body{
+   display: block;
+    background-image: url(https://politinfo.com.ua/wp-content/uploads/2018/06/vts.jpg);
+  margin: 0px;
+  padding: 0px;
+  width: auto;
+  height: auto;
+}
+#WhatsApp{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#Telegram{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#facebook{
+ width: 100px;
+ height: 100px;
+ border-radius: 20px;
+}
+#github{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#youtube{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#instagram{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#twitter{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#VK{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+.VK{
+    display: flex;
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+}
+.WhatsApp{
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+}
+.Telegram{
+    background:linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-top: 40px;
+    margin-left: 400px;
+    
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+    display: flex;
+}
+.facebook{
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-top: 40px;
+    margin-left: 400px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+}
+.github{
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-left: 150px;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+}
+.youtube{
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-left: 400px;
+    margin-top: 40px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px; 
+
+}
+.instagram{
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+}
+.twitter{
+    background: linear-gradient(45deg, #7f00ff , #E100FF);
+    margin-left: 400px;
+    margin-top: 40px;
+    background-color: white;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gg a {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  transition: .5s;
+  background-size: 100% 100vh;
+}
+.gg a:hover {
+    background-position: right center;
+}
+header ul{
+    padding-left: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ border-bottom: 2px solid #E8E8E8;
+ align-items: center;
+ background-image: url(https://cdn.pixabay.com/photo/2017/09/12/11/56/universe-2742113__340.jpg);
+ height: 130px;
+ margin: 0px;
+ width: auto;
+}
+header ul li a {
+    text-decoration: none;
+}
+header ul a:hover{
+    text-decoration: underline;
+}
+header nav a{
+    color: white;
+    
+}
+h1{
+    color: white;
+    background-color:lightgreen;
+    width: 430px;
+    height: auto;
+    margin-left: 70px;
+    border-radius: 10px;
+}
